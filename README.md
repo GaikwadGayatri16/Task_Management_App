@@ -1,1 +1,2 @@
 # Task_Management_App
+A Task Management App built using Android Studio allows users to organize and prioritize their daily tasks efficiently. It features a user-friendly interface for creating, editing, and deleting tasks, with options to set deadlines and reminders. The app supports task categorization, helping users sort tasks by priority or project. Data is stored locally or in a cloud database for easy access across devices. Additionally, the app may include features like task completion tracking and notifications to keep users on top of their responsibilities.
